@@ -661,5 +661,5 @@ function cfopAlg() {
 var cfop = new cfopAlg();
 
 $(document).ready(function() {
-	cfop.initAlgs();
+  // cfop.initAlgs();
 });
